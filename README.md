@@ -40,33 +40,29 @@ Machine learning frameworks (optional, depending on implementation)
  ┣ ┗ 📜 main.py          # Main code file for fingerprint recognition
  ┗ README.md            # Project documentation
 🚀 How to Use
-
-Clone this repository:
-
+# 1. Clone this repository
 git clone https://github.com/omar11batra/Finger-Recognition.git
 
-Set up a Python virtual environment and install dependencies:
-
+# 2. Set up a Python virtual environment
 python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate     # Windows
+
+# Activate the virtual environment
+# Linux/macOS
+source venv/bin/activate
+# Windows
+venv\Scripts\activate
+
+# 3. Install required dependencies
 pip install -r requirements.txt
 
-Run the main script:
-
+# 4. Run the main script
 python main.py
 
-Extend the code to link with user databases or biometric scanners as needed.
-
+# 5. Optional: extend the code to link with databases or biometric scanners
 💡 Use Cases
-
-Biometric login systems
-
-Secure authentication for web or desktop applications
-
-Access control systems for doors, devices, or restricted areas
-
-
+- Biometric login systems
+- Secure authentication for web or desktop applications
+- Access control systems for doors, devices, or restricted areas
 📬 Contact / التواصل
 
 For any questions or inquiries, you can reach me on Telegram:
